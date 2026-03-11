@@ -18,7 +18,7 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** (https://github.com/Jaqui0306/-Loopstudios_Landing_Page/upload)
+- **Repositorio en GitHub:** (https://github.com/Jaqui0306/-Loopstudios_Landing_Page)
 - **Sitio desplegado (opcional):** (https://loopstudios-tau-five.vercel.app/)
 
 ---
